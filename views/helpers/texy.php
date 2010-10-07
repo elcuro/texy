@@ -5,9 +5,9 @@
  * Helper class for Texy plugin.
  *
  * @package  Croogo
- * @author   Fahad Ibnay Heylaal <contact@fahad19.com>
- * @license  http://www.opensource.org/licenses/mit-license.php The MIT License
- * @link     http://www.croogo.org
+ * @author Juraj Jancuska <jjancuska@gmail.com>
+ * @license  GNU GENERAL PUBLIC LICENSE version 2 or 3
+ * (GPL because Texy code is on GPL)
  */
 class TexyHelper extends AppHelper {
 
