@@ -1,0 +1,33 @@
+Croogo Texy  plugin
+------------------------------
+Plugin for Croogo CMS, for using Texy format in content
+More information about Texy http://texy.info/en/
+
+Implemented only base configuration of Texy,
+headingModule->top
+imageModule->root
+
+How to use
+------------------------------
+- Log in to admin panel
+- Go to Extensions > Plugins page
+- Upload the zip file (available here)
+- Click on tick/cross icon of 'Texy' for activating or deactivating the plugin
+
+Configure
+------------------------------
+You can find settings of Texy plugin in admin panel
+Extensions > Texy > Configure
+
+HeadingModuleTop
+Heading level of texy higer title
+e.g. 3 = <h3>
+
+ImageModuleRoot
+Root dir for images. Now you can link images in Texy without full path to image
+e.g. [* image.gif *] instead of [* /img/image.gif *]
+
+ConvertFields
+List of node fileds which will be converted
+e.g. body,excerpt
+
