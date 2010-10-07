@@ -1,0 +1,10 @@
+name: Texy
+description: Convert Texy text to HTML
+
+author: Juraj Jancuska
+authorEmail: jjancuska@gmail.com
+authorUrl: 
+
+dependencies:
+  plugins:
+    - extensions
