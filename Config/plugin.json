@@ -1,0 +1,14 @@
+{
+	"name": "Texy",
+	"description": "Texy syntax for Croogo",
+
+	"author": "Juraj Jancuska",
+	"authorEmail": "jjancuska@gmail.com",
+	"authorUrl": "",
+
+	"dependencies": {
+		"plugins": [
+			"Extensions"
+		]
+	}
+}
