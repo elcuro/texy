@@ -1,0 +1,8 @@
+{
+    "name": "elcuro/texy",
+    "description": "Use Texy syntax in nodes bodies",
+    "type": "croogo-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
