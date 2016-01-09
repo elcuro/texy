@@ -33,7 +33,7 @@ class TexyHelper extends AppHelper {
          *
          * @return void
          */
-        public function beforeRender() {
+        public function beforeRender($viewFile) {
                 if (!isset($this->texy)) {
                         if (!class_exists('Texy')) {
                                 App::import('Vendor', 'Texy.Texy');
